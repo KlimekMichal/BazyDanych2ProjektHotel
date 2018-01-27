@@ -1,2 +1,2 @@
 # BazyDanych2ProjektHotel
-Projekt na Bazy Danych 2 pwr obsługa hotelu
+JavaApp for Projekt Bazy Danych 2 pwrW04 Hotel
